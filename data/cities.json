@@ -1,0 +1,106 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "8016",
+      "cityName": "Gradefes",
+      "country": "Spain",
+      "date": "2025-03-23T12:39:51.648Z",
+      "notes": "ttt",
+      "position": {
+        "lat": "42.650975063019466",
+        "lng": "-5.203452493338452"
+      }
+    },
+    {
+      "id": "8a9d",
+      "cityName": "Valverde de Burguillos",
+      "country": "Spain",
+      "date": "2025-03-23T12:47:52.463Z",
+      "notes": "fdsf",
+      "position": {
+        "lat": "38.32573788086711",
+        "lng": "-6.54423789930646"
+      }
+    },
+    {
+      "id": "abdc",
+      "cityName": "Montealegre de Campos",
+      "country": "Spain",
+      "date": "2025-03-23T18:10:11.781Z",
+      "notes": "ee",
+      "position": {
+        "lat": "41.91925488005046",
+        "lng": "-4.897728812013667"
+      }
+    },
+    {
+      "id": "c0db",
+      "cityName": "Villar del Rio",
+      "country": "Spain",
+      "date": "2025-03-23T18:10:19.059Z",
+      "notes": "ee",
+      "position": {
+        "lat": "42.03386284878578",
+        "lng": "-2.324661157173627"
+      }
+    },
+    {
+      "id": "863c",
+      "cityName": "Albarracin",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-24T16:55:53.202Z",
+      "notes": "eee",
+      "position": {
+        "lat": "40.397635284914514",
+        "lng": "-1.6228096067491962"
+      }
+    },
+    {
+      "id": "6218",
+      "cityName": "El Abiodh Sidi Cheikh",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2025-03-24T16:56:04.664Z",
+      "notes": "ee",
+      "position": {
+        "lat": "32.36364627484467",
+        "lng": "0.8856535325680249"
+      }
+    },
+    {
+      "id": "40d0",
+      "cityName": "Belmontejo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-24T17:02:58.974Z",
+      "notes": "dd",
+      "position": {
+        "lat": "39.80853604144591",
+        "lng": "-2.3071289062500004"
+      }
+    }
+  ]
+}
